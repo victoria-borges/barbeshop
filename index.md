@@ -10,5 +10,5 @@
 
 	barboterapia $70
 	
-	C:\Users\aluno\Downloads\mrbean.jpg
+
 
