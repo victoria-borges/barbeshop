@@ -9,4 +9,6 @@
 	barba-degrade $50
 
 	barboterapia $70
+	
+	C:\Users\aluno\Downloads\mrbean.jpg
 
